@@ -14,6 +14,7 @@ Esta es una API rest basica experimental, en la cual puedes probar las diferente
 - Clona el proyecto
 - Edita o crea el archivo .env (Puedes guiarte del archivo env.example), agrega el nombre a la base de datos,el tipo de conexión debe ser mysql, el puerto, el user y el password.
 - Ingresa a la carpeta del proyecto y abre la terminal
+- Instala las dependencias [composer install]
 - Ejecuta las migraciones [php artisan migrate]
 - Ejecta el seed para llenar la base de datos [php artisan db:seed --class=EstudianteSeeder
 ]

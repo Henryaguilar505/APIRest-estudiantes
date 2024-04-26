@@ -24,8 +24,8 @@ Esta es una API rest basica experimental, en la cual puedes probar las diferente
 
 ## End points
 
-- Petición GET [api/estudiantes]
-- Petición GET [api/{Estudiante}]  //buscar un estudiante por ID
-- Petición POST [api/estudiantes]
-- Petición PUT [api/estudiantes/{estudiante}]
-- Petición DELETE [api/{Estudiante}]
+- Petición GET [http://127.0.0.1:8000/api/estudiantes]
+- Petición GET [http://127.0.0.1:8000/api/{Estudiante}]  //buscar un estudiante por ID
+- Petición POST [http://127.0.0.1:8000/api/estudiantes]
+- Petición PUT [http://127.0.0.1:8000/api/estudiantes/{estudiante}]
+- Petición DELETE [http://127.0.0.1:8000/api/{Estudiante}]
